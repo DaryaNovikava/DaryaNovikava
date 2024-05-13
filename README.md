@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DaryaNovikava
-- 👀 I’m interested in films, fitnes. I like to travel and spending time with my family
 - 🌱 I’m currently learning JavaScript, TypeScript, React, Node.js
 - 📫 How to reach me: email: dashasaldunova@gmail.com, Telegram: @darya_novikava
 
